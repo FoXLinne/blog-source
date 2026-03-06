@@ -22,6 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate Hexo
+      
         run: npx hexo g
 
       - name: Deploy
