@@ -1,0 +1,1 @@
+<div class="aplayer no-destroy" data-id="5012316000" data-server="netease" data-type="playlist" data-mutex="true" data-preload="auto" data-order="random" data-fixed="true" data-mini="true" data-autoplay="true" data-theme="#3F51B5"></div>
