@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate Hexo
-        run: hexo g
+        run: npx hexo g
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
