@@ -272,7 +272,10 @@ footer:
   copyright:
     enable: false
     version: false
-  custom_text: 由 Hexo 和 Butterfly 强力驱动<br>萌ICP备19198100号
+  custom_text: 
+  - 由 Hexo 强力驱动
+  - 主题 Butterfly
+  - 萌ICP备19198100号
 # --------------------------------------
 # Aside Settings
 # --------------------------------------
