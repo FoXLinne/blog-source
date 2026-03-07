@@ -1,5 +1,5 @@
-> [!WARNING]
-> 本仓库为个人用仓库，托管博客源文件，README.md 使用 AI 生成。
+> [!NOTE]
+> 本仓库为个人用仓库，托管博客源文件，`README.md` 文件使用 AI 生成。
 
 # 枫的博客
 
@@ -24,6 +24,11 @@ cd blog-source
 # 安装依赖
 pnpm install
 ```
+
+## 配置
+
+- 主配置文件：`_config.yml`
+- 主题配置文件：`_config.butterfly.yml`
 
 ## 开发
 
@@ -55,9 +60,6 @@ hexo clean
 
 推送代码到 `main` 分支时，会自动触发部署工作流，将生成的静态文件推送到 `FoXLinne/blog` 仓库的 `main` 分支。
 
-## 配置
 
-- 主配置文件：`_config.yml`
-- 主题配置文件：`_config.butterfly.yml`
 
 
