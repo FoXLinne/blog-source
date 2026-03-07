@@ -1,6 +1,6 @@
 ---
 title: 在 Windows 上安装 zsh 并将其设置为默认 Shell
-id: zshonwindows
+id: 03-zshonwindows
 date: 2024-04-10 12:00:00
 updated: 2024-04-11 12:00:00
 tags: 
@@ -13,6 +13,8 @@ categories:
 discription: 如何在 Windows 上安装 zsh 并将其设置为 Windows Terminal 与 SSH 下的默认 Shell。
 cover: /images/thumb/3.jpg
 ---
+
+# 写在前面
 
 > `zsh` 作为目前比较强大的终端，支持丰富的主题与插件，可以协助用户更加便捷的使用操作系统，而目前在 macOS 各种 Linux 发行版下安装并配置 `zsh` 比较容易，本文将教大家如何在 Windows 下安装配置 `zsh`，使用 `Oh My Zsh` 配置插件，安装主题，并将其设置为 `Windows 终端` 与 SSH 连接时的默认 Shell。
 

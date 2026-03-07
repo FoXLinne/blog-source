@@ -1,6 +1,6 @@
 ---
 title: 【已入土】弱电箱神器 —— Ubiquiti EdgeRouter ER-X 路由器综合使用体验 (并将其刷成 OpenWrt)
-id: ubiquiti-erx-sharing
+id: 02-ubiquiti-erx-sharing
 date: 2024-04-06 17:00:00
 updated: 2024-04-08 01:00:00
 tags:
@@ -13,6 +13,9 @@ categories:
 description: 购入 Ubiquiti EdgeRouter ER-X 路由器后使用的综合使用体验，以及将其刷成 OpenWrt 后的调试与优化工作。
 cover: /images/thumb/2.jpg
 ---
+
+> [!NOTE]
+> 由于 Ubnt 已经被我出掉了，本篇文章停止更新，其中所有的内容都已失效，请窒息。
 
 # 背景
 
@@ -74,10 +77,6 @@ CSDN 上有不少 ER-X 的 IPV6 配置教程，跟着走了一遍以后发现路
 ## 开始刷机
 
 > 可以参考官方的[教程](https://openwrt.org/toh/ubiquiti/edgerouter_x_er-x_ka)，比较详细。
-
-# 之后的内容
-
-在想起更新这篇文章的时候，Ubnt 就已经被我出掉了，目前本文已入土，请窒息……
 
 
 

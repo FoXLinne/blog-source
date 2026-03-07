@@ -1,6 +1,6 @@
 ---
 title: 博客迁移告知和些许杂谈
-id: announce2026
+id: 04-announce2026
 date: 2026-03-07 03:00:00
 updated: 2027-03-07 03:00:00
 tags: 
