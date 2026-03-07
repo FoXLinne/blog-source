@@ -18,14 +18,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           npm install
           npm install hexo-renderer-pug hexo-renderer-stylus --save
 
-      - name: Generate Hexo
-      
+      - name: Generate Website
         run: npx hexo g
+
+      - name: Add a README.md
+        run: cp readme.deploy.md public/README.md
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
