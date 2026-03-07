@@ -7,7 +7,7 @@ tags:
 - Windows
 - 终端
 - Shell
-- git
+- Git
 categories: 
  - - 技术研究与分享
 discription: 如何在 Windows 上安装 zsh 并将其设置为 Windows Terminal 与 SSH 下的默认 Shell。
