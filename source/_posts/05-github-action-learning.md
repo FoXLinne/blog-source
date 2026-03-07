@@ -2,19 +2,23 @@
 title: 【施工中】一次 Hexo 博客从 Git 托管到云端自动构建的踩坑日记
 id: 05-github-action-learning
 date: 2026-03-07 07:00:00
-tags: 
-- 博客
-- Git
-- AI
-categories: 
- - - 技术研究与分享
-description: 记录了一次在搭建 Hexo 博客自动化部署的折腾过程，包括解决环境报错、主题仓库的 Git Submodule 残留导致无法生成网页，以及在 iOS 端使用 lg2 进行远程仓库管理的权鉴配置相关的问题。
+updated: 2026-03-08T03:36:13+08:00
+tags:
+  - 博客
+  - Git
+  - AI
+categories:
+  - 技术研究与分享
+description: 记录了一次在搭建 Hexo 博客自动化部署的折腾过程，包括解决环境报错、主题仓库的 Git Submodule
+  残留导致无法生成网页，以及在 iOS 端使用 lg2 进行远程仓库管理的权鉴配置相关的问题。
 cover: /images/thumb/5.jpg
 ---
 
 # 写在开头
 
-> 截至撰写本文时，大部分配置已完成，一切都能正常运行了，折腾至凌晨7点，这个过程真是痛并快乐着。
+{% note info %}
+截至撰写本文时，大部分配置已完成，一切都能正常运行了，折腾至凌晨7点，这个过程真是痛并快乐着。
+{% endnote %}
 
 # 实践前的准备
 
