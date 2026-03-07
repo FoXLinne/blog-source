@@ -2,14 +2,14 @@
 title: 博客迁移告知和些许杂谈
 id: 04-announce2026
 date: 2026-03-07 03:00:00
-updated: 2027-03-07 03:00:00
-tags: 
-- 博客
-- 告知
-- 杂谈
-- AI
-categories: 
- - - 随便聊聊
+updated: 2026-03-08T03:40:03+08:00
+tags:
+  - 博客
+  - 告知
+  - 杂谈
+  - AI
+categories:
+  - 随便聊聊
 description: 迁移了博客到新域名的说明，以及一些题外话。
 cover: /images/thumb/4.jpg
 ---
