@@ -59,10 +59,11 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /images/avatar_lily.jpg
+
 
 avatar:
-  img: /images/avatar_lily.jpg
+  img: https://q2.qlogo.cn/headimg_dl?dst_uin=741278423&spec=640
 
 # Disable all banner images
 disable_top_img: false
@@ -71,7 +72,7 @@ disable_top_img: false
 default_top_img: /images/banner.jpg
 
 # The banner image of index page
-index_img:
+index_img: /images/banner.jpg
 
 # The banner image of archive page
 archive_img:
@@ -117,8 +118,8 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: '页面走丢了...'
-  background: /img/error-page.png
+  subtitle: '好像走丢了呢，回到首页看看吧~'
+  background: /img/404.webp
 
 post_meta:
   # Home Page
@@ -207,7 +208,7 @@ toc:
   scroll_percent: true
 
 post_copyright:
-  enable: false
+  enable: true
   decode: false
   author_href:
   license: CC BY-NC-SA 4.0
@@ -245,19 +246,19 @@ related_post:
 # 1: The 'next post' will link to old post
 # 2: The 'next post' will link to new post
 # false: disable pagination
-post_pagination: 1
+post_pagination: 2
 
 # Displays outdated notice for a post
 noticeOutdate:
-  enable: false
+  enable: true
   # Style: simple / flat
   style: flat
   # When will it be shown
-  limit_day: 365
+  limit_day: 180
   # Position: top / bottom
   position: top
-  message_prev: It has been
-  message_next: days since the last update, the content of the article may be outdated.
+  message_prev: 本文最后更新于
+  message_next: 天前，内容可能已经过时。
 
 # --------------------------------------
 # Footer Settings
@@ -266,13 +267,14 @@ footer:
   nav:
   owner:
     enable: true
-    since: 2025
+    since: 2024
   # Copyright of theme and framework
   copyright:
-    enable: true
-    version: true
-  custom_text:
-
+    enable: false
+    version: false
+  custom_text: 
+  - 萌ICP备19198100号
+  - 由 Hexo 和 Butterfly 强力驱动
 # --------------------------------------
 # Aside Settings
 # --------------------------------------

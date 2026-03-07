@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.kaedehoshimi.top/
+url: https://blog.kaedehoshimi.top/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ deploy:
   type: git
   repo: https://github.com/FoXLinne/blog.git
   branch: main
-  message: Auto deploy by Hexo
+  message: Auto deployed by Hexo, use GitHub Actions.
