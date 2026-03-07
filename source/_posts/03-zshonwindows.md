@@ -3,13 +3,12 @@ title: 在 Windows 上安装 zsh 并将其设置为默认 Shell
 id: 03-zshonwindows
 date: 2024-04-10 12:00:00
 updated: 2024-04-11 12:00:00
-tags: 
-- Windows
-- 终端
-- Shell
-- Git
-categories: 
- - - 技术研究与分享
+tags:
+  - Windows
+  - 终端
+  - Git
+categories:
+  - 技术研究与分享
 discription: 如何在 Windows 上安装 zsh 并将其设置为 Windows Terminal 与 SSH 下的默认 Shell。
 cover: /images/thumb/3.jpg
 ---

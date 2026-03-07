@@ -4,17 +4,17 @@ id: 01-moonlight-configurated
 date: 2024-03-26 23:00:00
 updated: 2024-04-07 23:00:00
 tags:
-- Moonlight
-- Sunshine
-- 远程办公
-- 网络安全
-categories: 
- - - 技术研究与分享
+  - 网络安全
+  - 远程
+  - 串流
+  - Windows
+categories:
+  - 技术研究与分享
 description: 使用 Moonlight 与 Sunshine 推流的远程办公方案折腾与踩坑过程。
 cover: /images/thumb/1.jpg
 ---
 
-{% note info %}
+{% note info flat %}
 由于网易推出了免费的公网串流工具 —— UU 远程，此工具在公网环境下的优化相较 Moonlight 与 Sunshine 的组合更强，且连接更加简便，因此本篇文章停止更新，其中所有的内容都已失效，请窒息……
 {% endnote %}
 

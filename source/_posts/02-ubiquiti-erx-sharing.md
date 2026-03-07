@@ -4,17 +4,18 @@ id: 02-ubiquiti-erx-sharing
 date: 2024-04-06 17:00:00
 updated: 2024-04-08 01:00:00
 tags:
-- 路由器
-- 刷机
-- 远程办公
-- 网络安全
-categories: 
- - - 技术研究与分享
+  - 路由器
+  - 刷机
+  - 网络安全
+  - 远程
+  - 终端
+categories:
+  - 技术研究与分享
 description: 购入 Ubiquiti EdgeRouter ER-X 路由器后使用的综合使用体验，以及将其刷成 OpenWrt 后的调试与优化工作。
 cover: /images/thumb/2.jpg
 ---
 
-{% note info %}
+{% note info flat %}
 由于 Ubnt 已经被我出掉了，本篇文章停止更新，其中所有的内容都已失效，请窒息……
 {% endnote %}
 

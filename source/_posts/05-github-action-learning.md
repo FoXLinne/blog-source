@@ -7,6 +7,8 @@ tags:
   - 博客
   - Git
   - AI
+  - 远程
+  - 终端
 categories:
   - 技术研究与分享
 description: 记录了一次在搭建 Hexo 博客自动化部署的折腾过程，包括解决环境报错、主题仓库的 Git Submodule
@@ -16,7 +18,7 @@ cover: /images/thumb/5.jpg
 
 # 写在开头
 
-{% note info %}
+{% note info flat %}
 截至撰写本文时，大部分配置已完成，一切都能正常运行了，折腾至凌晨7点，这个过程真是痛并快乐着。
 {% endnote %}
 
