@@ -1,8 +1,9 @@
-> 本 README.md 使用 AI 生成。
+> [!WARNING]
+> 本仓库为个人用仓库，托管博客源文件，README.md 使用 AI 生成。
 
 # 枫的博客
 
-这是一个基于 [Hexo](https://hexo.io/) 静态博客生成器的个人博客项目，使用 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题。
+一个由 [Hexo](https://hexo.io/) 驱动的个人博客项目文件，使用 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 主题。
 
 ## 项目结构
 
@@ -17,8 +18,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/FoXLinne/blog-source.git
+cd blog-source
 
 # 安装依赖
 pnpm install
@@ -29,7 +30,7 @@ pnpm install
 启动本地开发服务器：
 
 ```bash
-pnpm run server
+hexo server
 ```
 
 服务器将在 `http://localhost:4000` 启动。
@@ -39,13 +40,13 @@ pnpm run server
 生成静态文件：
 
 ```bash
-pnpm run build
+hexo generate
 ```
 
 清理缓存：
 
 ```bash
-pnpm run clean
+hexo clean
 ```
 
 ## 部署
@@ -57,8 +58,6 @@ pnpm run clean
 ## 配置
 
 - 主配置文件：`_config.yml`
-- 主题配置文件：`themes/butterfly/_config.yml`
+- 主题配置文件：`_config.butterfly.yml`
 
-## 许可证
 
-[MIT License](LICENSE) （如果有许可证文件）
