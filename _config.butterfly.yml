@@ -279,7 +279,7 @@ footer:
 
 aside:
   enable: true
-  hide: true
+  hide: false
   # Show the button to hide the aside in bottom right button
   button: true
   mobile: true
