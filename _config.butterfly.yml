@@ -113,13 +113,13 @@ cover:
 # Replace Broken Images
 error_img:
   flink: /images/friend_404.gif
-  post_page: /images/404.webp
+  post_page: /images/aina.png
 
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: '好像走丢了呢，回到首页看看吧~'
-  background: /images/404.webp
+  subtitle: '好像走丢了喵~'
+  background: /images/aina.png
 
 post_meta:
   # Home Page
