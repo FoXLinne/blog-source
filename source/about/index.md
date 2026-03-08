@@ -1,7 +1,8 @@
 ---
-title: 这是一个关于界面~
+title: 关于
 date: 2026-03-07 02:00:00
-type: 'about'
+type: "about"
+top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-Gmt33LTo5DQ-ZEeYcX9_amdLJKiAAI4HgAC8a9wVTVmFaE2286uOgQ.png
 ---
 
 # 关于我自己
