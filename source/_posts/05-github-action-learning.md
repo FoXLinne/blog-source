@@ -75,6 +75,8 @@ cover: /images/thumb/5.jpg
 
 理论上的逻辑十分闭环，既满足了多端写作，又实现了自动化发布。但实际操作起来，云端环境的配置以及 `Git` 仓库的管理还是踩了不少坑。
 
+---
+
 # 踩坑记录
 
 ## 问题一 环境配置报错
@@ -243,6 +245,8 @@ WARN  No layout: tags/index.html
     run: cp ./readme-deploy.md ./public/readme.md
 ```
 
+---
+
 再次提交，并触发 `GitHub Actions`。
 
 ```bash
@@ -266,6 +270,8 @@ INFO  Generated: categories/index.html
 ```
 
 这次终于可以在构建日志中看到熟悉的 Butterfly 图标了，网页也均正常生成了。
+
+---
 
 # 写在最后
 
