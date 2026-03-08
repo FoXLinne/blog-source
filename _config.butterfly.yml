@@ -72,7 +72,7 @@ disable_top_img: false
 default_top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-Wmt4Qol0wkBsbF7ce5nTfoODPSSAAI6HgAC8a9wVVX9k9ypb1P0OgQ.jpg
 
 # The banner image of index page
-index_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-Wmt4Qol0wkBsbF7ce5nTfoODPSSAAI6HgAC8a9wVVX9k9ypb1P0OgQ.jpg
+index_img:
 
 # The banner image of archive page
 archive_img: 

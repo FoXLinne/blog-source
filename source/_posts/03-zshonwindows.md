@@ -10,7 +10,7 @@ tags:
 categories:
   - 技术研究与分享
 discription: 如何在 Windows 上安装 zsh 并将其设置为 Windows Terminal 与 SSH 下的默认 Shell。
-cover: /images/thumb/3.jpg
+cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFBGmt6Xlc7y3uJa6HFko_w3zWXW_UAAJHHgAC8a9wVTxK8TaCDlNCOgQ.png
 ---
 
 {% note info flat %}

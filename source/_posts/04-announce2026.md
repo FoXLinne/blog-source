@@ -11,7 +11,7 @@ tags:
 categories:
   - 随便聊聊
 description: 迁移了博客到新域名的说明，以及一些题外话。
-cover: /images/thumb/4.jpg
+cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-2mt49HPh-MnfQYAAcIzJIBjklRQEAACPh4AAvGvcFVmUrIJHe70zjoE.jpeg
 ---
 
 # 关于博客回归

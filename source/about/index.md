@@ -1,8 +1,8 @@
 ---
-title: 关于
+title: 个人页
 date: 2026-03-07 02:00:00
 type: "about"
-top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-Gmt33LTo5DQ-ZEeYcX9_amdLJKiAAI4HgAC8a9wVTVmFaE2286uOgQ.png
+top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE_Wmt5IuNWE3en8ZQT5keRRLogBtKAAJAHgAC8a9wVXlDt6rOaT9wOgQ.jpeg
 ---
 
 # 关于我自己

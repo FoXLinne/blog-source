@@ -11,7 +11,7 @@ tags:
 categories:
   - 技术研究与分享
 description: 使用 Moonlight 与 Sunshine 推流的远程办公方案折腾与踩坑过程。
-cover: /images/thumb/1.jpg
+cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFAWmt6XLAcRSFZC5PI-vegky4i418AAJEHgAC8a9wVeDwt_mBrirWOgQ.png
 ---
 
 {% note info flat %}

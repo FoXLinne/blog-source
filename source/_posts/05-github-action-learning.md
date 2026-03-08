@@ -12,7 +12,7 @@ tags:
 categories:
   - 技术研究与分享
 description: 记录了一次在搭建 Hexo 博客自动化部署的折腾过程，包括解决环境报错、主题仓库的 Git 子模块 残留导致无法生成网页相关的问题。
-cover: /images/thumb/5.jpg
+cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFBmmt6X0zCFZ01XHkU_2JB_6P0WsfAAJJHgAC8a9wVXGLcwNyS22COgQ.png
 ---
 
 {% note info flat %}
