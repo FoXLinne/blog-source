@@ -9,7 +9,7 @@ top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFBWmt6XtN_5rRVKGkY4QU
 
 你好呀，这是星見カエデ。
 
-算是一般路过轻度萌二？总之脱宅ing……
+算是一般路过轻度萌二？（脱宅ing……）
 
 平时爱玩音游，看动画漫画小说，以及玩 Galgame。
 
