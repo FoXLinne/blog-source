@@ -63,13 +63,13 @@ favicon: /images/avatar_lily.jpg
 
 
 avatar:
-  img: https://q2.qlogo.cn/headimg_dl?dst_uin=741278423&spec=640
+  img: /images/avatar_lily.jpg
 
 # Disable all banner images
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-Wmt4Qol0wkBsbF7ce5nTfoODPSSAAI6HgAC8a9wVVX9k9ypb1P0OgQ.jpg
+default_top_img: /images/banner_top.jpg
 
 # The banner image of index page
 index_img:

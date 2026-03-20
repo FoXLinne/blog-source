@@ -2,7 +2,7 @@
 title: 个人页
 date: 2026-03-07 02:00:00
 type: "about"
-top_img: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFBWmt6XtN_5rRVKGkY4QURqCv1iRIAAJIHgAC8a9wVVmO2s6vxD2GOgQ.png
+top_img: /images/banner_other.jpg
 ---
 
 # 关于我自己

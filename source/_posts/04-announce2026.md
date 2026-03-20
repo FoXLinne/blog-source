@@ -1,5 +1,5 @@
 ---
-title: 博客迁移告知和些许杂谈
+title: 博客复活告知和些许杂谈
 id: 04-announce2026
 date: 2026-03-07 03:00:00
 updated: 2026-03-08 03:45:10
@@ -10,8 +10,8 @@ tags:
   - AI
 categories:
   - 随便聊聊
-description: 迁移了博客到新域名的说明，以及一些题外话。
-cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIE-2mt49HPh-MnfQYAAcIzJIBjklRQEAACPh4AAvGvcFVmUrIJHe70zjoE.jpeg
+description: 关于重新开启博客的说明，以及一些题外话。
+cover: /images/thumb/04.jpg
 ---
 
 # 关于博客回归

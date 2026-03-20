@@ -12,7 +12,7 @@ tags:
 categories:
   - 技术研究与分享
 description: 购入 Ubiquiti EdgeRouter ER-X 路由器后使用的综合使用体验，以及将其刷成 OpenWrt 后的调试与优化工作。
-cover: https://img2.nloln.de/file/BQACAgUAAyEGAASLVN5eAAIFA2mt6XdnM-L8SHCOOWo8Ts08FNAfAAJGHgAC8a9wVcN2bSQIaDUvOgQ.png
+cover: /images/thumb/02.png
 ---
 
 {% note info flat %}
