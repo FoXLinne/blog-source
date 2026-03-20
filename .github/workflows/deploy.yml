@@ -45,5 +45,5 @@ jobs:
           key: ${{ secrets.SERVER_KEY }}
           port: ${{ secrets.SERVER_PORT }}
           source: "public/*"
-          target: "/opt/1panel/apps/caddy/caddy/data/html"
+          target: "/opt/1panel/apps/caddy/caddy/data/web"
           strip_components: 1 
