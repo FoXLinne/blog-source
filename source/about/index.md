@@ -2,7 +2,7 @@
 title: 个人页
 date: 2026-03-07 02:00:00
 type: "about"
-top_img: /images/banner_other.jpg
+top_img: /images/banner_other.png
 ---
 
 # 关于我自己
