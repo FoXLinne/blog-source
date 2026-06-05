@@ -46,4 +46,5 @@ jobs:
           port: ${{ secrets.SERVER_PORT }}
           source: "public/*"
           target: "/srv/caddy/web"
+          timeout: 120s
           strip_components: 1 
